@@ -3,7 +3,7 @@ var qs = require('querystring')
 var ideal = require('./permasalahan')
 
 
-//! Bagian pembuatan fungsi menghitung nilai akhir
+
 
 
 //! Bagian pembuatan server
