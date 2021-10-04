@@ -100,7 +100,7 @@ var server = http.createServer(function(request,response){
         
     
     `</table>` + '<br><br>' +
-                        'Berat badan Ideal  ' + ideal.pemilihan(eval(form['Jenis']),eval(form['Tinggi']),eval(form['Nama']))
+                        'Berat badan Ideal  ' + pemilihan(eval(form['jenis']),eval(form['tinggi']),eval(form['nama']))
                     
                 )
             })
