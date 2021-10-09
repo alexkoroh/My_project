@@ -13,7 +13,7 @@ function beratBadanWanita(tinggi){
 
 
 //!Fungsi pemilihan.....
-function pemilihan(jenis,tinggi,nama){
+function pemilihan(jenis,tinggi){
     var pilih ;
     if(jenis == 1){
         pilih = beratBadanPria(tinggi)
